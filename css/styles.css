@@ -18,3 +18,7 @@ img.main2 {
 img.main3 {
   float: left;
 }
+
+.sidebar {
+  float: right;
+}
