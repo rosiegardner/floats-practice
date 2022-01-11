@@ -6,3 +6,15 @@ h1 {
   color: black;
   text-align: center;
 }
+
+img.main {
+  float: left;
+}
+
+img.main2 {
+  float: right;
+}
+
+img.main3 {
+  float: left;
+}
