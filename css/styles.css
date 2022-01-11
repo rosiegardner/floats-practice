@@ -7,18 +7,29 @@ h1 {
   text-align: center;
 }
 
-img.main {
-  float: left;
+img {
+  margin: 50px;
+  border-radius: 8px;
 }
 
 img.main2 {
   float: right;
 }
 
-img.main3 {
-  float: left;
-}
-
 .sidebar {
   float: right;
+  border-radius: 8px;
+  color: white;
+  background-color: black;
+  padding: 8px;
+}
+
+.members {
+  padding-right: 25rem;
+  font-weight: bold;
+}
+
+.discography {
+  padding-right: 25rem;
+  font-weight: bold;
 }
