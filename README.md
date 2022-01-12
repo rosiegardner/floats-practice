@@ -1,8 +1,8 @@
 # Band Website
 
-#### By Rosie Gardner
+#### By Rosie Gardner and Deya Card
 
-#### This is band webpage for HTML / CSS Practice: Using Floats 
+#### This is band webpage for HTML / CSS Practice: Using Floats & Box Model 
 
 ## Technologies Used
 
@@ -11,7 +11,7 @@
 
 ## Description
 
-This browser application is for HTML/CSS Practice: Using Floats
+This browser application is for HTML/CSS Practice: Using Floats & Box Model
 
 ## Setup/Installation Requirements
 
@@ -26,4 +26,4 @@ This browser application is for HTML/CSS Practice: Using Floats
 
 MIT
 
-Copyright (c) 01-11-22 Rosie Gardner
+Copyright (c) 01-11-22 Rosie Gardner and Deya Card
